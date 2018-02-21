@@ -1,0 +1,35 @@
+.cell-identifier {
+    background: rgb(248, 240, 243);
+    border: 1px solid #999 !important;
+    float: left;
+    font-size:smaller !important;
+    font-weight: lighter !important;
+    line-height: 14px !important;
+    color: rgb(73, 72, 72);
+    height: 14px;
+    margin: -1px 0 0 -1px !important;
+    padding: 0 !important;
+    text-align: center;
+    width: 70%;
+}
+
+.cell-measure{
+    background: rgb(233, 252, 255);
+    border: 1px solid #999 !important;
+    float: left;
+    font-size:smaller !important;
+    font-weight: lighter !important;
+    line-height: 14px !important;
+    height: 14px;
+    color: rgb(73, 72, 72);
+    margin: -1px 0 0 -1px !important;
+    padding: 0 !important;
+    text-align: center;
+    width: 30%;
+    align-self: right;
+}
+
+.box{
+    display: flex;
+    width:9.09% !important;
+}
